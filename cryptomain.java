@@ -1,4 +1,3 @@
-package bestjavaapps;
 
 import java.io.IOException;
 import java.security.InvalidKeyException;
