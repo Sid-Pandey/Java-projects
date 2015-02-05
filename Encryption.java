@@ -98,7 +98,7 @@ class Encryption extends JFrame implements ActionListener
             
             try {
                 
-                File output = new File("C:\\Users\\Siddharth\\Desktop\\imgholder\\Encrypted.txt");
+                File output = new File("C:\\Encrypted.txt");
                 FileWriter write = null;
                 
                 try {
